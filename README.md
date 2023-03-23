@@ -4,5 +4,5 @@
 # Install
 
 ```
-$ npm i zy-js-tools --save
+$ npm i zy-js-tools --save 
 ```
