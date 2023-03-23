@@ -1,0 +1,25 @@
+{
+  "name": "zy-js-tools",
+  "version": "1.0.0",
+  "description": "js常用公共方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZHYI-source/zy-js-tools.git"
+  },
+  "keywords": [
+    "js",
+    "tools",
+    "js-tools",
+    "common-utils"
+  ],
+  "author": "ZY_MG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZHYI-source/zy-js-tools/issues"
+  },
+  "homepage": "https://github.com/ZHYI-source/zy-js-tools#readme"
+}
