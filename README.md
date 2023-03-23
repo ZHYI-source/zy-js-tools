@@ -3,4 +3,6 @@
 
 # Install
 
-```npm i zy-js-tools```
+```
+$ npm i zy-js-tools --save
+```
